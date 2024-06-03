@@ -1,6 +1,6 @@
 # Cisco-Practise
-Cisco Practise
-Some images from projects I made.
+Some Cisco Packet Tracer projects that I learn from different sources and tried to implement for improve myself.
+
 
 ospf2:
 ![image](https://github.com/Bengisuirem/Cisco-Practise/assets/76843335/b92c13b6-ce29-4398-a36a-85d8ad1e38b3)
